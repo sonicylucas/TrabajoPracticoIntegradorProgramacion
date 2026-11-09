@@ -5,7 +5,7 @@ Este proyecto es el Trabajo Práctico Integrador (TPI) para la Tecnicatura Unive
 
 ## 🔗 Enlaces Importantes
 - **Vídeo Demostrativo (10-15 min):** [Ninguno por ahora] 
-- **Documentación Académica (PDF):** `[Ninguno por ahora]
+- **Documentación Académica (PDF):** https://drive.google.com/file/d/1mgMr5gmZOB5oXcU4jkQv-jJbQNdPRhqL/view?usp=sharing
 
 ---
 
